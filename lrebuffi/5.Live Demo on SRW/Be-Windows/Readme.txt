@@ -1,0 +1,1 @@
+The txt files are compressed to fit Github limitations.
